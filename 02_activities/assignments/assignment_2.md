@@ -10,22 +10,40 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Bad visualization: https://dribbble.com/shots/917643-Video-Report?list=searches&tag=pie_chart&offset=71
 
+      - The donut shape makes one feel that the categories are related to each other as one part of a whole. However each category is it's own independent component. 
+      - There are too many slices of the donut that we need to look at, which is making the information cramped. 
+      - It's very difficult to compare the values of the different categories because of the angles. We have to rely on the percentage that is written next to it.
+      - It's unclear what the percentages signify. For example, fans is at 88% what does that mean? Who are the fans? People who watch disney content, or who visit the park, or who buy merchandise?
+      - The 65% in the middle of the donut has no context!
+      - Color usage is not intuitive.
+      - The shading and color gradient is unnecessary and distracts from the information presented.
+      - There is no information provided about the source of the data presented.
+      - There is no title to help the viewer understand what the visualization represents.
 
+      Good visualization: https://www.behance.net/gallery/6578765/Infographics-Raconteur-The-Times/modules/50927793
 
-
-
+      - The main data is being compared, and it uses a bar chart for that or directly gives the numbers that are being compared.
+      - The data is grouped logically into clearly labelled categories reducing the cognitive load on the viewer.
+      - The use of colors is intuitive and not overwhelming.
+      - It uses icons and simple illustrations that are meaningful and add to the visual. The additions do not distract the viewer from the data.
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      
+      Bad visualization:
+      - Use a bar chart instead with percentage on the y-axis.
+      - Rename the categories so that they are more meaningful.
+      - Add an appropriate title so the viewers understand what they're looking at.
+      - Keep it simple! Use distinct meaningful colors, without gradients. Do not use shading.
+      - Add the source(s) of the data at the bottom of the visualization.
 
-
-
-
+      Good visualization:
+      - The circles at the bottom of the visualization are not the best option to compare numbers. A different choice such as a bar chart would make it easier for the viewer to rank the numbers!
+      - Consder having more negative space (for example, the background of each separate visualization does not need the diagonal lines).
 
 
       
