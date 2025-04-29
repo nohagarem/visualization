@@ -1,0 +1,7 @@
+When to Comment Code:
+Who wrote the code - if it's collaborative
+Version or timestamp
+Action - inserted, modified, deleted, ... and why!!
+What does the following block of code do?
+How to use the code
+We can also add comments to write what didn't work! So we don't waste time trying the same method later.
